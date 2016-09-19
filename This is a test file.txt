@@ -1,0 +1,5 @@
+# Here we are.
+
+3.times do
+  puts "This is a little program."
+end
